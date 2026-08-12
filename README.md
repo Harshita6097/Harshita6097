@@ -1,165 +1,102 @@
-# Harshita Sharma
-
-**B.Tech in Computer Science Engineering | Vellore Institute of Technology (2023 – 2027)**  
-**CGPA:** 8.97  
-**Location:** India  
-**Contact:** harshitasharma3003@gmail.com | +91-9883006097  
-**Links:** [LinkedIn](https://linkedin.in/Harshita6097) | [GitHub](https://github.com/Harshita6097)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harshita6097&label=Visitors&color=blue&style=flat" alt="Profile Visitors"/>
+</p>
 
 ---
 
-## Professional Overview
+<h2 align="center">Hey there 👋, I'm Harshita Sharma</h2>
 
-B.Tech Computer Science Engineering student with an 8.97 CGPA and experience in Generative AI, Full-Stack Web Development, and Machine Learning. Currently working as a Claude CoE Intern at ProcurAI, developing full-stack features using the MERN stack, integrating AI-driven microservices, and implementing Anthropic enterprise workflows. Experienced in building scalable IoT-ML platforms, deep learning diagnostic models, and hybrid recommendation engines.
-
----
-
-## Technical Skills
-
-* **Programming Languages:** Java, Python, C++, JavaScript, SQL, HTML, CSS
-* **Generative AI & LLMs:** Anthropic Claude API, Claude Code, Model Context Protocol (MCP), Prompt Engineering, Agent Skills
-* **AI & Machine Learning:** Deep Learning, Natural Language Processing, Computer Vision, Recommendation Systems# Hi, I'm Harshita Sharma 👋
-
-### AI/ML Engineer in Progress | Generative AI | Machine Learning | Full-Stack Development
-
-I'm a Computer Science Engineering student at **Vellore Institute of Technology** with an **8.97 CGPA**, currently working as a **Claude CoE Intern at ProcurAI**.
-
-I enjoy building **AI/ML systems and production-oriented applications**, with interests spanning Generative AI, computer vision, machine learning, and full-stack development.
-
-* 💼 **Claude CoE Intern @ ProcurAI**
-* 🧠 Exploring **Generative AI, LLM applications, MCP & AI agents**
-* 🤖 Interested in **AI/ML Engineering, Applied AI & Data Science**
-* 🛠️ Building with **Python, PyTorch, TensorFlow, Claude API, React & Node.js**
-* 🎓 **B.Tech CSE @ VIT Bhopal | 8.97 CGPA**
-* 📫 **[harshitasharma3003@gmail.com](mailto:harshitasharma3003@gmail.com)**
+<p align="center">
+  <b>Machine Learning • Deep Learning • Generative AI • Computer Vision</b>
+</p>
 
 ---
 
-## Featured Projects
+### 👩‍💻 About Me
 
-### 🩸 SCAResNet — Sickle Cell Anemia Detection
-
-Deep-learning based classification of healthy and sickle red blood cells from blood-smear images, with Grad-CAM explainability.
-
-**PyTorch · TensorFlow · Computer Vision · Streamlit**
-
-**90.42% Accuracy · 0.9748 ROC-AUC · 12,000 Images**
-
-[View Repository](https://github.com/Harshita6097)
+* 🎓 B.Tech in **Computer Science & Engineering** @ **Vellore Institute of Technology**
+* 📊 **8.99 CGPA** | 2023–2027
+* 🤖 Currently working as a **Claude CoE Intern @ ProcurAI**
+* 🧠 Building at the intersection of **Machine Learning, Generative AI & Full-Stack Development**
+* 🔬 Currently exploring **LLMs, AI Agents, MCP & AI-powered applications**
+* 📚 Passionate about **researching emerging AI technologies, reading books, and continuously learning**
 
 ---
 
-### 🌱 AgriSense — Intelligent Crop Observation System
+### 🛠️ Languages & Tools
 
-End-to-end smart agriculture platform combining IoT telemetry, machine learning, and a real-time web dashboard for crop monitoring.
+#### 💻 Programming & Scripting
 
-**Python · TensorFlow · React · ESP32 · Raspberry Pi**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js" />
+</p>
 
-[View Repository](https://github.com/Harshita6097)
+#### 🤖 ML / DL / Data
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,numpy,pandas" />
+</p>
 
-### 🤖 AI-Powered Job Recommendation System
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
+</p>
 
-Hybrid recommendation engine combining collaborative and content-based filtering for candidate-job matching.
+#### 🧠 Generative AI
 
-**Python · Scikit-learn · KNN · NMF · SVD**
+<p>
+  <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20API-191919?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-6B4FBB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Generative%20AI-FF6B6B?style=flat-square" />
+</p>
 
-[View Repository](https://github.com/Harshita6097)
+**Claude API • Model Context Protocol (MCP) • AI Agents • LLM Applications**
 
----
+#### 🌐 Full-Stack & Backend
 
-## Technical Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql" />
+</p>
 
-**Languages:** Python · Java · C++ · JavaScript · SQL
+#### ☁️ Cloud & Dev
 
-**AI / ML:** Machine Learning · Deep Learning · Computer Vision · NLP · Recommendation Systems
-
-**Generative AI:** Claude API · LLM Applications · MCP · AI Agents
-
-**Frameworks & Libraries:** PyTorch · TensorFlow · Scikit-learn · OpenCV · NumPy · Pandas · React · Node.js · Express · Streamlit
-
-**Backend & Cloud:** REST APIs · MongoDB · MySQL · Docker · AWS
-
-**Tools:** Git · GitHub
-
----
-
-## Experience
-
-**Claude CoE Intern — ProcurAI**
-*June 2026 – Present*
-
-Working on **TradeNXT**, an enterprise procurement platform, contributing to full-stack development and Generative AI integrations.
-
----
-
-## Education
-
-**Vellore Institute of Technology, Bhopal**
-B.Tech in Computer Science Engineering · 2023–2027
-**CGPA: 8.97**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,streamlit" />
+</p>
 
 ---
 
-## GitHub Stats
+### 🏅 Achievements & Courseworks
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshita6097\&show_icons=true\&hide_border=true)
-
----
-
-## Let's Connect
-
-[LinkedIn](https://www.linkedin.com/in/harshita6097/) · [Email](mailto:harshitasharma3003@gmail.com)
-
-* **Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-learn, OpenCV, React.js, Node.js, Express.js, Streamlit, NumPy, Pandas
-* **Databases & Cloud:** MongoDB, MySQL, AWS, Docker, Git, GitHub
+* 🧠 **Preparing to appear for the Anthropic Certified Associate – Foundations (CCA-F)** certification, strengthening expertise across the Anthropic AI ecosystem.
+* 🏆 **NIT Jalandhar HackMol 6.0 Hackathon** — Reached the **Top 15 teams**, collaborating with a team to develop and present an AI-driven solution.
+* 🏥 **VIT × Johns Hopkins University Health Hackathon** — Reached the **Top 50 teams**, developing and presenting an AI-driven healthcare solution.
+* 📢 **Public Relations Team Member — Coding Blocks Club, Vellore Institute of Technology**, contributing to outreach, communications and technical event initiatives.
+* 📜 Completed **Building with Claude API** and **Introduction to MCP** certifications from Anthropic.
+* ☁️ Completed **AWS Technical Essentials** certification.
+* 📚 Completed **Introduction to Machine Learning** by NPTEL.
 
 ---
 
-## Work Experience
+### Beyond Code
 
-### ProcurAI — Claude CoE Intern
-*June 2026 – Present*
-* Contributing to TradeNXT, an enterprise procurement platform, by engineering full-stack application features and integrating core business logic.
-* Developed MERN stack features, including an AI-powered OCR and text generation pipeline within the TradeNXT server architecture and user interface.
-* Implemented RESTful APIs and managed Docker-hosted MongoDB instances for scalable application development.
-* Applied the Anthropic ecosystem (Claude API, Model Context Protocol, Agent Skills) to design enterprise Generative AI solution workflows.
-
----
-
-## Featured Projects
-
-### SCAResNet – Sickle Cell Anemia Detection System
-* **Tech Stack:** PyTorch, TensorFlow, Computer Vision, Streamlit
-* Engineered a lightweight residual convolutional neural network to classify healthy and sickle red blood cells from blood smear images.
-* Achieved 90.42% accuracy and 0.9748 ROC-AUC on the aneRBC dataset comprising 12,000 images.
-* Applied Focal Loss, data augmentation, and Grad-CAM explainability to highlight clinically significant visual features.
-* Deployed a Streamlit web interface enabling real-time image uploads, automated classification, and diagnostic confidence visualization.
-
-### AgriSense – Intelligent Crop Observation System
-* **Tech Stack:** Python, Machine Learning, TensorFlow, React.js, ESP32, IoT
-* Built an end-to-end IoT platform utilizing ESP32 microcontrollers and a Raspberry Pi hub for low-latency agricultural telemetry.
-* Developed predictive machine learning models in Python and TensorFlow to evaluate crop health and automate irrigation decisions.
-* Designed an interactive React dashboard providing real-time data visualization, historical analytics, and threshold alerts.
-
-### AI-Powered Job Recommendation System
-* **Tech Stack:** Python, Machine Learning, Scikit-learn, Collaborative Filtering
-* Constructed an AI candidate-job matching engine utilizing KNN, Non-Negative Matrix Factorization (NMF), and Singular Value Decomposition (SVD).
-* Built a hybrid recommendation model combining collaborative and content-based filtering to mitigate cold-start issues on sparse datasets.
+* 📚 Enjoy **reading books** and exploring ideas across technology, science, philosophy and personal development.
+* 🔬 Regularly **research and read about emerging technologies, AI research and advancements in intelligent systems**.
+* 👀 Enjoy **observing people, systems and the world around me**, often using those observations to understand problems from different perspectives.
+* 🧠 Believe in **continuous learning, curiosity and questioning how things work**.
+* ✨ Always looking for new ideas, technologies and perspectives to explore.
 
 ---
 
-## Certifications
+### 🌐 Connect with Me
 
-* **Building with Claude API** — Anthropic
-* **Introduction to MCP** — Anthropic
-* **AWS Technical Essentials** — Amazon Web Services
-* **Introduction to Machine Learning (Elite)** — NPTEL
-
----
-
-## GitHub Performance
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshita6097&show_icons=true&theme=default&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshita6097&layout=compact&theme=default&hide_border=true)
+<p>
+  <a href="https://www.linkedin.com/in/harshitasharma6097/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+  &nbsp;
+  <a href="mailto:harshitasharma3003@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+  </a>
+</p>
